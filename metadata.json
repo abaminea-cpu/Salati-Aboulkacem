@@ -1,0 +1,6 @@
+{
+  "name": "Salati ABOULKACEM",
+  "description": "تطبيق مواقيت الصلاة والأذكار اليومية واتجاه القبلة وتنبيهات الأذان الدقيقة باللغة العربية مع دعم العمل دون إنترنت",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

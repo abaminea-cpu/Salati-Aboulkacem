@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Salati ABOULKACEM</string>
+    <string name="nav_prayers">المواقيت</string>
+    <string name="nav_qibla">القبلة</string>
+    <string name="nav_alerts">التنبيهات</string>
+    <string name="nav_adhkar">الأذكار</string>
+    <string name="settings_title">الإعدادات</string>
+    <string name="channel_adhan_name">تنبيهات الأذان</string>
+    <string name="channel_adhan_desc">إشعارات وأصوات الأذان الدقيقة في أوقات الصلاة</string>
+    <string name="channel_adhkar_name">تذكير الأذكار</string>
+    <string name="channel_adhkar_desc">تنبيهات أذكار الصباح والمساء اليومية</string>
+    <string name="channel_playback_name">مشغل الأذان والأذكار</string>
+    <string name="channel_playback_desc">عناصر التحكم بتشغيل الأذان والأذكار الصوتية</string>
+</resources>
